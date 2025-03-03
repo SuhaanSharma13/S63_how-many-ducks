@@ -5,7 +5,7 @@ Here’s your idea in a clean, presentable format:
 # 🦆 "How Many Ducks?" – The Worst Duck Counter  
 
 ## Overview  
-**"How Many Ducks?"** is a fun web app where users upload an image, and the site attempts to count ducks—badly. Using AI (or pure randomness), it misidentifies objects, provides nonsense commentary, and delivers hilariously inaccurate results.  
+**"How Many Ducks?"** is a fun web app where users upload an image, and the site attempts to count ducks—badly. Using AI (or pure randomness), it misidentifies objects, provides nonsense commentary, and delivers hilariously inaccurate results..
 
 ## 🚀 Features  
 ✅ **Image Upload** – Upload an image for "analysis."  
