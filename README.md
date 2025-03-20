@@ -1,7 +1,3 @@
-Here’s your idea in a clean, presentable format:  
-
----
-
 # 🦆 "How Many Ducks?" – The Worst Duck Counter  
 
 ## Overview  
